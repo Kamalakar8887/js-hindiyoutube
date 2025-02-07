@@ -1,0 +1,5 @@
+"Use strict"; //treat all Js code as newer Version
+
+//alert(3+3) // we are using node js ,not browser
+
+console.log("hello")
